@@ -2,8 +2,7 @@ import { Button, HStack, Icon, Stack, Tag, Text } from "@chakra-ui/react";
 import { AiOutlineInfoCircle } from "react-icons/ai";
 // import { PiHandDepositDuotone } from "react-icons/pi";
 // import { PiHandWithdrawDuotone } from "react-icons/pi";
-import { PiHandWithdrawFill } from "react-icons/pi";
-import { PiHandDepositFill } from "react-icons/pi";
+import { PiHandDepositFill, PiHandWithdrawFill } from "react-icons/pi";
 
 const PortfolioSection = () => {
   return (
