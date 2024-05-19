@@ -8,6 +8,7 @@ Welcome to the Crypto Dashboard repository! This project is a web application de
 - **Chakra UI**: Utilize the Chakra UI library for responsive and accessible design.
 - **React Icons**: Integrate a variety of icons using the React Icons library.
 - **Page Routing**: Implement page routing with React Router for seamless navigation.
+- **Vite**: Leveraged Vite as the build tool and development server for faster and smoother development experience.
 
 ## Installation
 To get started with the Crypto Dashboard, follow these steps:
