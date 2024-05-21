@@ -1,7 +1,7 @@
 # Crypto Dashboard
 
 ## Overview
-Welcome to the Crypto Dashboard repository! This project is a web application developed using React, Chakra UI, and React Icons. It provides a user-friendly interface to monitor cryptocurrency prices, view detailed coin information, and track market trends. The main features of this project include multiple pages for different functionalities, responsive design using Chakra UI, and intuitive navigation with React Router.
+Welcome to the Crypto Dashboard repository! This project is a web application developed using React, Chakra UI, and React Icons.  The main features of this project include multiple pages for different functionalities, responsive design using Chakra UI, and intuitive navigation with React Router.
 
 ## Features
 - **Multiple Pages**: Learn how to create and manage multiple pages in a React application.
