@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the Crypto Dashboard repository! This project is a web application developed using React, Chakra UI, and React Icons.  The main features of this project include multiple pages for different functionalities, responsive design using Chakra UI, and intuitive navigation with React Router.
 
+
+
 ## Features
 - **Multiple Pages**: Learn how to create and manage multiple pages in a React application.
 - **Chakra UI**: Utilize the Chakra UI library for responsive and accessible design.
